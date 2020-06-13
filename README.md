@@ -14,6 +14,10 @@ Validación HTML: https://bit.ly/3fmiVQO
 
 HTML validation: https://bit.ly/3fmiVQO
 
+--------------------------------------------------------------
+
+The original template in HTML 4: https://bit.ly/2U7D8kX
+
 
 ### Spanish
 
@@ -26,3 +30,5 @@ Migración de HTML 4 a HTML5 - Parte 1: https://bit.ly/2B1xNFo
 Migración de HTML 4 a HTML5 - Parte 2:https://bit.ly/2UDtGGw
 
 Validación HTML: https://bit.ly/3fmiVQO
+
+The original template in HTML 4: https://bit.ly/2U7D8kX
