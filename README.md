@@ -31,4 +31,6 @@ Migración de HTML 4 a HTML5 - Parte 2:https://bit.ly/2UDtGGw
 
 Validación HTML: https://bit.ly/3fmiVQO
 
-The original template in HTML 4: https://bit.ly/2U7D8kX
+--------------------------------------------------------------
+
+La plantilla original en HTML 4: https://bit.ly/2U7D8kX
